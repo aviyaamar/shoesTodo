@@ -1,0 +1,13 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+}
+.shoe-item{
+  height: 10vh;
+  width: 40vw;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid green;
+  margin: 1rem;
+  font-size: 20px;
+}
