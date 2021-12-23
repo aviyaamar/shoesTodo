@@ -27,6 +27,7 @@ class App extends React.Component{
               size = {shoe.size}
               price = {shoe.price}
               delete= {()=>this.delete(shoe.id)}
+              update={this.update}
             />
          </div>
     })
